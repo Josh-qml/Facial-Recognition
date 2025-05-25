@@ -1,3 +1,5 @@
+COS30082 Applied Machine Learning Project<br>
+
 Josh Celestino, 104550240 <br>
 
 pip install opencv-python pillow deepface<br>
