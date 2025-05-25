@@ -1,4 +1,4 @@
-Josh Celestino <br>
+Josh Celestino, 104550240 <br>
 
 pip install opencv-python pillow deepface<br>
 python -m pip uninstall -y torch torchvision torchaudio facenet-pytorch
